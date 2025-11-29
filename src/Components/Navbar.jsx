@@ -26,13 +26,6 @@ const Navbar = ({ scrollY }) => {
 
         {/* Right Side — Buttons */}
         <div className="flex items-center gap-4">
-          {/* Resume */}
-          <a
-            className="hidden md:inline-flex items-center gap-2 px-4 py-2 rounded-full bg-gradient-to-r from-blue-600 to-purple-600 text-white font-semibold shadow hover:scale-105 transition"
-            href="/resume.pdf"
-          >
-            <Download className="w-4 h-4" /> Resume
-          </a>
 
           {/* Socials */}
           <div className="flex gap-3">
