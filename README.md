@@ -1,12 +1,60 @@
-# React + Vite
+# Ansham Maurya — Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, high-performance developer portfolio built using **React + Vite + TailwindCSS**, showcasing my work in **systems engineering**, **deep learning**, **AI model infrastructure**, and **full-stack development**.
 
-Currently, two official plugins are available:
+This portfolio is designed with a clean, premium aesthetic featuring smooth animations, gradients, and a refined UI that aligns with my technical background.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🧑‍💻 About Me
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Hi, I’m **Ansham Maurya**, a systems-focused software engineer with experience in:
+
+- **C++ (Advanced)** — templates, metaprogramming, CUDA GPU programming  
+- **Rust (Async + Networking)** — building fast, reliable systems  
+- **Deep Learning** — LSTM, RNN, CNN, custom architectures  
+- **Machine Learning Systems** — building ML frameworks from scratch  
+- **MERN Stack** — full-stack web apps  
+- **Backend Engineering** — scalable APIs, authentication, system design  
+
+This portfolio highlights my strongest work with a focus on **performance, design, and engineering depth**.
+
+---
+
+## 📦 Tech Stack
+
+**Frontend**
+- React (Vite)
+- TailwindCSS
+- Lucide Icons
+- Framer Motion (optional)
+
+**Other Tools**
+- Git, GitHub Pages / Vercel
+- ESLint + Prettier
+
+---
+
+## 🖼️ Sections Included
+
+### **✔ Hero Section**
+Modern developer branding with my image, tagline, strengths, and call-to-actions (Resume + Contact).
+
+### **✔ Skills**
+Clean UI showing real technical skills such as C++/CUDA, Rust, DL systems, Backend, and MERN.
+
+### **✔ Projects**
+Handpicked major projects:
+- TorchLessCUDA — Custom DL engine (C++ + CUDA)
+- SentinelAI NIDS — Network Intrusion Detection (Rust + C++)
+- Modelise — AI Model Hosting Platform
+- Neural Networks from Scratch (ANN/RNN/LSTM)
+- SentinelAI Dashboard
+
+### **✔ Contact**
+Professional contact form + collaboration info.
+
+### **✔ Footer**
+Clean links to GitHub, LinkedIn, and email.
+
+---
